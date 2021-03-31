@@ -11,7 +11,7 @@
 
 #### 📝 메모    
 이미지 사이즈 조정할 때
-![image]( link width: )
+- <img src="link" width="50%">
 
 <!--
 <table class="table">
