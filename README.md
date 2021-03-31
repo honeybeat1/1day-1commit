@@ -11,7 +11,8 @@
 
 #### 📝 메모    
 이미지 사이즈 조정할 때
-- <img src="link" width="50%">
+- `<img src="link" width="50%">`
+- 구글링 한 것들은 죄다 막힘 
 
 <!--
 <table class="table">
