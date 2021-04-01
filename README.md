@@ -5,6 +5,7 @@
 
 | Title | Contents | Genre |
 |:---:|:---:|:---:|
+| 카트세이버 개발기 - 기획 | Cart savior - Simple Cart Saving Web Application Devlog (PM of View) | `Project`|
 | 카카오톡 UI부터 BM까지 뿌셔보기 | Looking deep inside on free messenger app KakaoTalk | `Growth Hacking` |
 | 👀 |
 ----
