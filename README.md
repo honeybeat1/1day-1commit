@@ -3,10 +3,11 @@
 
 > https://velog.io/@honeybeat1
 
-| Title | Contents | Genre |
-|:---:|:---:|:---:|
-| 카트세이버 개발기 - 기획 | Cart savior - Simple Cart Saving Web Application Devlog (PM of View) | `Project`|
-| 카카오톡 UI부터 BM까지 뿌셔보기 | Looking deep inside on free messenger app KakaoTalk | `Growth Hacking` |
+| Title | Contents | Date | Genre |
+|:---:|:---:|:---:|:---:|
+| 솔라즈 개발기 - 1주차 | Solars Devlog - Week 1 | 2021/04/03 | `Project`|
+| 카트세이버 개발기 - 기획 | Cart savior - Simple Cart Saving Web Application Devlog (PM of View) | 2021/04/01 |`Project`|
+| 카카오톡 UI부터 BM까지 뿌셔보기 | Looking deep inside on free messenger app KakaoTalk | 2021/03/ |  `Growth  Hacking` |
 | 👀 |
 ----
 
