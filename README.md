@@ -5,6 +5,7 @@
 
 | Title | Contents | Date | Genre |
 |:---:|:---:|:---:|:---:|
+| 빅데이터분석기사 준비노트 | Big Data Analysis Engineer Preparation note | 2021/04/09 | `Study`|
 | 신경망과 기초 - 정리노트 | Not So Deep Learning - Basic Neural Network note | 2021/04/07 | `Study`|
 | 솔라즈 개발기 - 1주차 | Solars Devlog - Week 1 | 2021/04/03 | `Project`|
 | 카트세이버 개발기 - 기획 | Cart savior - Simple Cart Saving Web Application Devlog (PM of View) | 2021/04/01 |`Project`|
